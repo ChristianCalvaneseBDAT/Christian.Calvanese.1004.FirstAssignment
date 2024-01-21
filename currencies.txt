@@ -1,0 +1,3 @@
+AUD 1.0345157 Australian Dollar
+CHF 1.0237414 Swiss Franc
+CNY 0.1550176 Chinese Yuan
